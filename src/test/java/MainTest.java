@@ -1,4 +1,4 @@
-import koschei.KoscheiTheDeathless;
+import koschei.models.KoscheiTheDeathless;
 import koschei.config.AppConfig;
 import org.junit.Assert;
 import org.junit.Test;
